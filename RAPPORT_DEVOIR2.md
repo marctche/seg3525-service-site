@@ -91,7 +91,7 @@ Contraste, échelle, équilibre et hiérarchie: les titres sont très grands pou
 
 Portfolio: https://seg3525-portfolio-lime.vercel.app/  
 Prototype haute fidélité: https://seg3525-portfolio-lime.vercel.app/devoir2-service-site/  
-Code: https://github.com/marctche/seg3525-portfolio/tree/main/devoir2-service-site
+Code: https://github.com/marctche/seg3525-service-site
 
 ## 6. Reconnaissance de l'IA générative
 
