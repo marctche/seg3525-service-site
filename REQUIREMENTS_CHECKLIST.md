@@ -22,10 +22,10 @@
 - [x] Prototype responds to buttons, selects, chips, and FAQ controls.
 - [x] Prototype reflects visual design principles.
 - [x] Prototype includes color, typography, layout, hierarchy, contrast, scale and balance decisions.
-- [ ] Prototype publicly hosted.
-- [ ] Prototype linked from the Devoir 1 portfolio.
-- [ ] Devoir 1 portfolio redeployed after link update.
-- [ ] GitHub repository created and pushed.
+- [x] Prototype publicly hosted.
+- [x] Prototype linked from the Devoir 1 portfolio.
+- [x] Devoir 1 portfolio redeployed after link update.
+- [x] GitHub repository created and pushed.
 - [ ] Report exported to PDF after final public links are available.
 - [ ] Feedback group signup completed.
 
