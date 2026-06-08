@@ -95,8 +95,8 @@ Code: https://github.com/marctche/seg3525-service-site
 
 ## 6. Reconnaissance de l'IA générative
 
-J'ai utilisé l'IA générative comme assistant de conception et de développement. Elle m'a aidé à analyser les exigences du devoir, structurer les personnages, proposer deux scénarimages, définir une direction visuelle et générer une première version du prototype React.
+J'ai utilisé l'IA générative de façon limitée comme outil de soutien. Elle m'a surtout aidé à relire les exigences du devoir, vérifier que les éléments demandés étaient présents et reformuler certaines parties du rapport pour les rendre plus claires.
 
-J'ai aussi utilisé l'IA pour vérifier que le prototype répondait aux exigences: service à rendez-vous, interactivité, informations de contact, crédit du concepteur, personas, scénarimages et lien prévu avec le portfolio.
+Pour les maquettes et le prototype, l'IA a servi principalement à valider la structure et à repérer des oublis possibles, par exemple les informations de contact, le crédit du concepteur, l'interactivité et le lien avec le portfolio.
 
-L'IA n'a pas été utilisée comme remplacement complet du jugement de conception. Les choix finaux de structure, de service, de ton et de direction visuelle ont été guidés par les contraintes du devoir et par la volonté d'éviter une interface générique.
+Les choix principaux du projet, comme le type de service, les objectifs utilisateurs, la direction visuelle, la structure des sections et les décisions finales de conception, ont été faits par moi. L'IA n'a pas remplacé le travail de conception; elle a surtout servi de soutien pour organiser et vérifier le travail.
