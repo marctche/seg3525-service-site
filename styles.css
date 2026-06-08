@@ -614,76 +614,16 @@ select:focus {
   grid-template-rows: 340px auto;
 }
 
-.map-visual {
-  background:
-    linear-gradient(90deg, rgba(23, 21, 17, 0.08) 1px, transparent 1px),
-    linear-gradient(180deg, rgba(23, 21, 17, 0.08) 1px, transparent 1px),
-    var(--moss-soft);
-  background-size: 44px 44px;
+.coverage-photo {
+  background: var(--surface-strong);
   overflow: hidden;
-  position: relative;
 }
 
-.map-visual::before {
-  background: var(--orange);
-  border-radius: 999px;
-  content: "AN";
-  display: grid;
-  font-family: "IBM Plex Mono", monospace;
-  font-weight: 700;
-  height: 74px;
-  left: 50%;
-  place-items: center;
-  position: absolute;
-  top: 50%;
-  transform: translate(-50%, -50%);
-  width: 74px;
-  z-index: 2;
-}
-
-.pin {
-  background: var(--ink);
-  border-radius: 999px;
-  height: 18px;
-  position: absolute;
-  width: 18px;
-  z-index: 3;
-}
-
-.pin-a {
-  left: 23%;
-  top: 27%;
-}
-
-.pin-b {
-  right: 20%;
-  top: 31%;
-}
-
-.pin-c {
-  bottom: 22%;
-  left: 35%;
-}
-
-.route {
-  background: var(--line-strong);
-  height: 2px;
-  left: 23%;
-  position: absolute;
-  top: 45%;
-  transform-origin: left center;
-  width: 58%;
-}
-
-.route-a {
-  transform: rotate(-18deg);
-}
-
-.route-b {
-  left: 34%;
-  top: 58%;
-  transform: rotate(22deg);
-  width: 42%;
+.coverage-photo img {
+  display: block;
+  height: 100%;
+  object-fit: cover;
+  width: 100%;
 }
 
 .coverage-content {

@@ -303,12 +303,11 @@ function App() {
           </div>
 
           <div className="coverage-card">
-            <div className="map-visual" aria-hidden="true">
-              <span className="pin pin-a"></span>
-              <span className="pin pin-b"></span>
-              <span className="pin pin-c"></span>
-              <span className="route route-a"></span>
-              <span className="route route-b"></span>
+            <div className="coverage-photo">
+              <img
+                alt="Mécanicien qui répare un vélo"
+                src="https://images.unsplash.com/photo-1605027990121-cbae9e0642df?auto=format&fit=crop&w=1100&q=80"
+              />
             </div>
             <div className="coverage-content">
               <p className="kicker">Zone couverte</p>
